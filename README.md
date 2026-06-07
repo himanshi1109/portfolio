@@ -36,6 +36,6 @@ Open `index.html` in your browser.
 
 * Portfolio: https://himanshi1109.github.io/portfolio/
 * GitHub: https://github.com/himanshi1109
-* LinkedIn: [Add Your LinkedIn Link]
+* LinkedIn: https://www.linkedin.com/in/himanshi-khatrii/
 
 ## ⭐ If you like this portfolio, feel free to star the repository!
